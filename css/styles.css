@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-    text-align: center;
+    /* text-align: center; */
     color: black;
 }
 
@@ -26,8 +26,7 @@ section>h2 {
     /* border: 2px solid black; */
     margin: 0;
     width: 150px;
-    text-align: center;
-    font-style: Times;
+    /* text-align: center; */
     font-size: 24px;
     font-weight: bold;
     height: 45px;
